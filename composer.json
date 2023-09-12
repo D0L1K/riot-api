@@ -12,8 +12,14 @@
 			"role": "Developer"
 		}
 	],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/D0L1K/riot-api-league"
+		}
+	],
 	"require": {
-		"dolejska-daniel/riot-api-league": "^2",
+		"dolejska-daniel/riot-api-league": "1.0.0",
 		"dolejska-daniel/riot-api-datadragon": "^2"
 	},
 	"require-dev": {},
