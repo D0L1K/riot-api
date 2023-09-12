@@ -16,6 +16,10 @@
 		{
 			"type": "vcs",
 			"url": "https://github.com/D0L1K/riot-api-league"
+		},
+		{
+			"type": "vcs",
+			"url": "https://github.com/D0L1K/riot-api-datadragon"
 		}
 	],
 	"require": {
