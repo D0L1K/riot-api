@@ -23,8 +23,8 @@
 		}
 	],
 	"require": {
-		"dolejska-daniel/riot-api-league": "1.0.1",
-		"dolejska-daniel/riot-api-datadragon": "1.0.1"
+		"dolejska-daniel/riot-api-league": "1.0.2",
+		"dolejska-daniel/riot-api-datadragon": "1.0.2"
 	},
 	"require-dev": {},
 	"autoload": {},
